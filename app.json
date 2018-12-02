@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "realtime",
-    "slug": "realtime",
+    "name": "NewsApp",
+    "slug": "NewsApp",
     "privacy": "public",
     "sdkVersion": "31.0.0",
     "platforms": [
